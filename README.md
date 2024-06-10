@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | **Master's degree in Computer Science & Engineering** | Korea University       | Sep 2020 - Feb 2023    | Prof. Hyunwoo J. Kim |
 | **Bachelor's degree in Computer Science & Engineering** | Korea University       | Mar 2015 - Aug 2020    | Prof. HeuiSeok Lim   |
 
-## Publications
+## 📝Publications
 
 1. **Temporally Sparse Adversarial Perturbations on Videos**  [IEEE Access 2021](https://ieeexplore.ieee.org/document/9592758)
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!-- 6. **Panoramic Image-to-Image Translation**  [Preprint](https://arxiv.org/abs/2304.04960) -->
 
-## Projects
+## 🛠️ Projects
 
 - **Object Detection for Diagnosis of Infectious Diseases**  
   - Korea University and Korea University Guro Hospital (Aug 2020 - Jul 2022)
