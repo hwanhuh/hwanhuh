@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🧐 Interested in
 - Computer Vision
 - Neural Radiance Fields a.k.a NeRF and Gaussian Splatting
-- Technical Blog: <a href="https://velog.io/@gjghks950/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gjghks950/"/></a>
+- Technical Blog: <a href="https://hwan-h-heo.github.io/hwan-h-heo.io/blogs/">***Link***</a>
 
 
 ## 💼 Experience 
@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 
 ## 📝Publications
 
-1. **Temporally Sparse Adversarial Perturbations on Videos**  [IEEE Access 2021](https://ieeexplore.ieee.org/document/9592758)
+- **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  [ICML 2023](https://arxiv.org/abs/2302.01571)
 
-2. **Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection** [CVPR 2022](https://arxiv.org/abs/2204.04836)
+- **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**  [Preprint](https://arxiv.org/abs/2303.03966)
 
-3. **Domain Generalization Emerges from Dreaming**  [Preprint](https://arxiv.org/abs/2302.00980)
+- **Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection** [CVPR 2022](https://arxiv.org/abs/2204.04836)
 
-4. **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  [ICML 2023](https://arxiv.org/abs/2302.01571)
+- **Domain Generalization Emerges from Dreaming**  [Preprint](https://arxiv.org/abs/2302.00980)
 
-5. **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**  [Preprint](https://arxiv.org/abs/2303.03966)
+- **Temporally Sparse Adversarial Perturbations on Videos**  [IEEE Access 2021](https://ieeexplore.ieee.org/document/9592758)
 
 <!-- 6. **Panoramic Image-to-Image Translation**  [Preprint](https://arxiv.org/abs/2304.04960) -->
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   - Korea University and Korea University Guro Hospital (Aug 2020 - Jul 2022)
 
 - **AI-based 3D Rendering in Game & Graphic Engine**
-  - NCSoft Research (May 2023 - Dec 2023)  [Related Post (Korean)](https://ncsoft.github.io/ncresearch/b515d0241ebe9af4a549e991ae0efc4a90f0f65e)
+  - NCSoft Research (May 2023 - Dec 2023)  [Related Post](https://hwan-h-heo.github.io/hwan-h-heo.io/projects/nerf_in_game/)
 
 - **Viser Viewer for 2D Gaussian Splatting**
   - Personal Project (May 2024 - June 2024) [Project Link](https://github.com/hwanhuh/2D-GS-Viser-Viewer)
