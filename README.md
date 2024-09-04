@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Hwan's%20%20Github&reversal=false" alt="imgg"/> </br>
 
+<div align="center">
+  <!--img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Hwan's%20%20Github&reversal=false" alt="imgg"/> </br-->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white&color=5C3EE8" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Open3D-%23black.svg?style=flat&logo=Open3D&logoColor=black&color=2C67E8" alt="Open3D"/>
-  <img src="https://img.shields.io/badge/Trimesh-%23f7df1e.svg?style=flat&logo=trimesh&logoColor=black&color=20C2E8" alt="Trimesh"/>
-  <img src="https://img.shields.io/badge/nvdiffrast-%23FFFFFF.svg?style=flat&logo=nvdiffrast&logoColor=black&color=76B900" alt="nvdiffrast"/>
 </div>
+
+![HwanHeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanhuh&show_icons=true&theme=dracula)
 
 ## 🧐 Interested in
 - Computer Vision
