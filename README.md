@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 ## 🧐 Interested in
 - Computer Vision
-- Neural Radiance Fields a.k.a NeRF and Gaussian Splatting
+- Neural Rendering, Radiance Fields a.k.a NeRF and Gaussian Splatting
 - Technical Blog: <a href="https://hwan-h-heo.github.io/hwan-h-heo.io/blogs/">***Link***</a>
 
 
 ## 💼 Experience 
 | Position              | Institution          | Team                   | Duration                | Responsibilities                                  |
 |-----------------------|----------------------|------------------------|-------------------------|--------------------------------------------------|
-| **AI Researcher** | NCSoft| 3D Generation Team     | Feb 2024 - present      | Accelerated 3D Generation via Multi-view 2D Diffusion |
-| **AI Researcher** | NCSoft | Neural Rendering Team  | Mar 2023 - Feb 2024     | Neural Rendering scene in Graphic Engine |
-| **Research Intern** | NAVER  | AI Lab      | Jul 2022 - Dec 2022     | Robust Camera Pose Refinement for Multi-Resolution Hash Encoding [ICML '23] |
+| **AI Researcher** | NCSOFT| 3D Generation Team     | Feb 2024 - present      | 3D Asset Generation; 3D Latent Diffusion & Texture Synthesis |
+| **AI Researcher** | NCSOFT | Neural Rendering Team  | Mar 2023 - Feb 2024     | Neural Rendering scene in Graphic Engine; NeRF Facial Avatar with Multi Camera System |
+| **Research Intern** | NAVER  | AI Lab      | Jul 2022 - Dec 2022     | Research on the Radiance Fields, Joint Optimization of NeRF and Camera poses |
 
 ## 🎓Education
 | Degree                                | Institution          | Duration                | Advisor              |
@@ -44,26 +44,32 @@ Here are some ideas to get you started:
 | **Bachelor's degree in Computer Science & Engineering** | Korea University       | Mar 2015 - Aug 2020    | Prof. HeuiSeok Lim   |
 
 ## 📝Publications
+- **CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**, [underreview](https://ncsoft.github.io/CaPa/)
 
-- **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**  [ICML 2023](https://arxiv.org/abs/2302.01571)
+- **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**,  [ICML 2023](https://dl.acm.org/doi/10.5555/3618408.3618936)
 
-- **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**  [Preprint](https://arxiv.org/abs/2303.03966)
+- **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**,  [arXiv](https://arxiv.org/abs/2303.03966)
 
-- **Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection** [CVPR 2022](https://arxiv.org/abs/2204.04836)
+- **Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**, [CVPR 2022](https://arxiv.org/abs/2204.04836)
 
-- **Domain Generalization Emerges from Dreaming**  [Preprint](https://arxiv.org/abs/2302.00980)
+- **Domain Generalization Emerges from Dreaming**,  [arXiv](https://arxiv.org/abs/2302.00980)
 
-- **Temporally Sparse Adversarial Perturbations on Videos**  [IEEE Access 2021](https://ieeexplore.ieee.org/document/9592758)
+- **Temporally Sparse Adversarial Perturbations on Videos**,  [IEEE Access 2021](https://ieeexplore.ieee.org/document/9592758)
 
 <!-- 6. **Panoramic Image-to-Image Translation**  [Preprint](https://arxiv.org/abs/2304.04960) -->
 
 ## 🛠️ Projects
 
+- **Viser Viewer for 2D Gaussian Splatting** 
+  - Personal Project (May 2024 - June 2024) [Project Link](https://github.com/hwanhuh/2D-GS-Viser-Viewer)
+
+- **AI-based 3D Rendering in Game & Graphic Engine**
+  - NC Research (May 2023 - Dec 2023)  [Project Link](https://hwan-h-heo.github.io/hwan-h-heo.io/projects/nerf_in_game/)
+
+- **Accelerated Face NeRF with Multi-Camera Captures**
+  - NC Research (May 2023 - Dec 2023)  [Project Link](https://hwan-h-heo.github.io/hwan-h-heo.io/projects/face_nerf/)
+
 - **Object Detection for Diagnosis of Infectious Diseases**  
   - Korea University and Korea University Guro Hospital (Aug 2020 - Jul 2022)
 
-- **AI-based 3D Rendering in Game & Graphic Engine**
-  - NCSoft Research (May 2023 - Dec 2023)  [Related Post](https://hwan-h-heo.github.io/hwan-h-heo.io/projects/nerf_in_game/)
 
-- **Viser Viewer for 2D Gaussian Splatting**
-  - Personal Project (May 2024 - June 2024) [Project Link](https://github.com/hwanhuh/2D-GS-Viser-Viewer)
